@@ -36,7 +36,7 @@
 - 将手放入识别区域
 - 张开手掌召唤蝴蝶，游戏开始！
 <img width="942" height="745" alt="01：准备阶段" src="https://github.com/user-attachments/assets/6169e36a-da56-4614-a811-650004436050" />
-![03：游玩阶段：握拳消失](https://github.com/user-attachments/assets/788f0003-ad7f-4fd2-b515-53293ceca7bd)
+
 
 ### 3️⃣ 游玩阶段
 - **张开手掌** 🖐️：蝴蝶出现并随手移动  
@@ -44,6 +44,7 @@
 - 每生存 1 秒自动加 1 分  
 - 若与障碍物碰撞 → 游戏结束
 <img width="945" height="686" alt="02：游玩阶段：张手出现" src="https://github.com/user-attachments/assets/1b06ed23-e766-4090-8e5d-7423076a9249" />
+<img width="469" height="344" alt="image" src="https://github.com/user-attachments/assets/2665aa22-5ffd-4018-b58d-8518dcf5261f" />
 
 
 
