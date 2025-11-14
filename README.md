@@ -43,14 +43,12 @@
 - **握拳** ✊：蝴蝶暂时消失以避开障碍物  
 - 每生存 1 秒自动加 1 分  
 - 若与障碍物碰撞 → 游戏结束
-<img width="942" height="745" alt="01：准备阶段" src="https://github.com/user-attachments/assets/bbd3a16f-9721-4262-8cdb-4f4da3aef6d2" />
 <img width="945" height="686" alt="02：游玩阶段：张手出现" src="https://github.com/user-attachments/assets/1b06ed23-e766-4090-8e5d-7423076a9249" />
-
+![03：游玩阶段：握拳消失](https://github.com/user-attachments/assets/cd042c7c-007d-42d2-8b6e-0674718ce034)
 
 ### 4️⃣ 结算阶段
 - 显示最终得分与“Restart”按钮  
 - 点击按钮即可重新开始
-![03：游玩阶段：握拳消失](https://github.com/user-attachments/assets/cd042c7c-007d-42d2-8b6e-0674718ce034)
 <img width="939" height="689" alt="04：结束阶段" src="https://github.com/user-attachments/assets/3befdf7a-820d-42bb-a188-52d2ef11ca1e" />
 
 ---
