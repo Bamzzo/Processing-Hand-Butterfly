@@ -44,7 +44,7 @@
 - 每生存 1 秒自动加 1 分  
 - 若与障碍物碰撞 → 游戏结束
 <img width="945" height="686" alt="02：游玩阶段：张手出现" src="https://github.com/user-attachments/assets/1b06ed23-e766-4090-8e5d-7423076a9249" />
-<img width="469" height="344" alt="image" src="https://github.com/user-attachments/assets/2665aa22-5ffd-4018-b58d-8518dcf5261f" />
+<img width="945" height="686" alt="image" src="https://github.com/user-attachments/assets/84858c7b-238d-4fca-9335-68c626fa306c" />
 
 
 
