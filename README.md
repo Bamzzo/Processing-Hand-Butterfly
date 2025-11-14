@@ -44,7 +44,8 @@
 - 每生存 1 秒自动加 1 分  
 - 若与障碍物碰撞 → 游戏结束
 <img width="945" height="686" alt="02：游玩阶段：张手出现" src="https://github.com/user-attachments/assets/1b06ed23-e766-4090-8e5d-7423076a9249" />
-![03：游玩阶段：握拳消失](https://github.com/user-attachments/assets/cd042c7c-007d-42d2-8b6e-0674718ce034)
+![03：游玩阶段：握拳消失](https://github.com/user-attachments/assets/ecf34ef0-5aeb-4945-a34b-01d8e024b48c)
+
 
 ### 4️⃣ 结算阶段
 - 显示最终得分与“Restart”按钮  
